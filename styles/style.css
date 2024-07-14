@@ -1,7 +1,9 @@
 html {
     background-color: rgb(31, 24, 36);
 }
-
+main {
+    width: 50%;
+}
 body {
     margin: 10px auto;
     box-sizing: border-box;
